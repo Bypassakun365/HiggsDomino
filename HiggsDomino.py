@@ -1,5 +1,5 @@
 #/bin/bash
-echo : Higgs domino island
+#echo : Higgs domino island
 #domino island
 #scatter
 #super win 4.600.000.000
